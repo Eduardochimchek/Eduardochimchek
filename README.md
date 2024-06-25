@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 10px;">
-      Sou um desenvolvedor full stack apaixonado por criar soluções inovadoras e eficientes. Tenho ampla experiência em desenvolvimento de aplicativos web e móveis, utilizando AngularJS para a construção de interfaces dinâmicas e responsivas, e Apache Cordova para empacotamento e implantação em múltiplas plataformas. Além disso, tenho um forte interesse em explorar novas tecnologias e enfrentar desafios complexos, sempre buscando aprimorar minhas habilidades e conhecimentos na área de desenvolvimento.
+      Sou um desenvolvedor full stack apaixonado por criar soluções inovadoras e eficientes. Tenho ampla experiência em desenvolvimento de aplicativos web e mobiles, utilizando AngularJS para a construção de interfaces dinâmicas e responsivas, e Apache Cordova para empacotamento e implantação em múltiplas plataformas. Além disso, tenho um forte interesse em explorar novas tecnologias e enfrentar desafios complexos, sempre buscando aprimorar minhas habilidades e conhecimentos na área de desenvolvimento.
     </td>
     <td style="vertical-align: top;">
       <a href="./images/eucat.png" target="_blank" rel="noopener noreferrer">
