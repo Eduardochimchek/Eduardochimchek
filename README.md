@@ -6,8 +6,8 @@
       Sou um desenvolvedor full stack apaixonado por criar soluções inovadoras e eficientes. Tenho ampla experiência em desenvolvimento de aplicativos web e móveis, utilizando AngularJS para a construção de interfaces dinâmicas e responsivas, e Apache Cordova para empacotamento e implantação em múltiplas plataformas. Além disso, tenho um forte interesse em explorar novas tecnologias e enfrentar desafios complexos, sempre buscando aprimorar minhas habilidades e conhecimentos na área de desenvolvimento.
     </td>
     <td>
-      <a href="/Eduardochimchek/Eduardochimchek/blob/main/images/eucat.png" target="_blank" rel="noopener noreferrer">
-        <img src="/Eduardochimchek/Eduardochimchek/raw/main/images/eucat.png" width="200" height="200">
+      <a href="./images/eucat.png" target="_blank" rel="noopener noreferrer">
+        <img src="./images/eucat.png" width="200" height="200">
       </a>
     </td>
   </tr>
