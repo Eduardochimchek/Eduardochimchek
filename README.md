@@ -1,14 +1,15 @@
 ### Bem vindo ao meu perfil 👋
 
-
-<div style="display: flex;flex-direction: row;align-items: center;justify-content: center;">
-  <span style="width: 60%;">
-    Meu nome é Eduardo Chimchek Jeronimo. Sou um desenvolvedor full stack apaixonado por criar soluções inovadoras e eficientes. Tenho ampla experiência em desenvolvimento de aplicativos web e móveis, utilizando AngularJS para a construção de interfaces dinâmicas e responsivas, e Apache Cordova para empacotamento e implantação em múltiplas plataformas. Além disso, tenho um forte interesse em explorar novas tecnologias e enfrentar desafios complexos, sempre buscando aprimorar minhas habilidades e conhecimentos na área de desenvolvimento.
-  </span>
-  <div style="width: 40%;display: flex;align-items: center;justify-content: center;">
-    <img src="./images/eucat.png" style="width: 200px;height: 200px;"/>
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="width: 60%;">
+      Sou um desenvolvedor full stack apaixonado por criar soluções inovadoras e eficientes. Tenho ampla experiência em desenvolvimento de aplicativos web e móveis, utilizando AngularJS para a construção de interfaces dinâmicas e responsivas, e Apache Cordova para empacotamento e implantação em múltiplas plataformas. Além disso, tenho um forte interesse em explorar novas tecnologias e enfrentar desafios complexos, sempre buscando aprimorar minhas habilidades e conhecimentos na área de desenvolvimento.
+    </td>
+    <td style="width: 40%; text-align: center;">
+      <img src="./images/eucat.png" style="width: 200px;height: 200px;"/>
+    </td>
+  </tr>
+</table>
 
 ### Ferramentas e Tecnologias que tenho mais conhecimento
 
