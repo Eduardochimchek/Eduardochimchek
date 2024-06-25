@@ -7,7 +7,7 @@
     </td>
     <td style="vertical-align: top;">
       <a href="./images/eucat.png" target="_blank" rel="noopener noreferrer">
-        <img src="./images/eucat.png" style="width: 200px; height: auto;">
+        <img src="./images/eucat.png" style="width: 1200px; height: auto;">
       </a>
     </td>
   </tr>
@@ -17,6 +17,7 @@
 
 <!-- https://devicon.dev/ -->
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40" height="40"  />
